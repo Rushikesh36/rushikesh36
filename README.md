@@ -58,7 +58,7 @@ Most of my work revolves around full-stack development, internal tooling, and sy
 
 ## Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rushikesh36&repo=kambaz-quiz&theme=tokyonight)](https://github.com/rushikesh36/kambaz-quiz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rushikesh36&repo=kambaz-next-js-app&theme=tokyonight)](https://github.com/rushikesh36/kambaz-next-js-app)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rushikesh36&repo=helpcamp&theme=tokyonight)](https://github.com/rushikesh36/helpcamp)
 
